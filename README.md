@@ -1,1 +1,1 @@
-# Extremely, extremely simple web server in assembly!
+# Extremely, extremely simple web server in x86_64 assembly!
